@@ -24,5 +24,8 @@ Copier le dataset (que vous aurez préalablement téléchargé depuis le clien s
 
 ## Étape 4 : Exécution de l'application
 
-Vous pouvez maintenant exécuter les cellules du notebook pour utiliser l'application.
-Le markdown vous indiquera où vous en êtes et ce que vous exécutez.
+Vous pouvez maintenant exécuter le notebook qui correspond à chaque modèle :
+- model1.ipynb
+- model2.ipynb
+- model3.ipynb
+- model4.ipynb
