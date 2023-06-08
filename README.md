@@ -20,7 +20,7 @@ Cela installera toutes les librairies nécessaires pour exécuter l'application.
 
 ## Étape 3 : Récupérer le dataset
 
-Copier le dataset (que vous aurez préalablement téléchargé depuis le clien secret 👀), puis placer le dans le répertoire `data`
+Copier le dataset (que vous aurez préalablement téléchargé depuis le client secret 👀), puis placer le dans le répertoire `data`
 
 ## Étape 4 : Exécution de l'application
 
