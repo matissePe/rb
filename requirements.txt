@@ -1,0 +1,4 @@
+pandas
+pyAgrum
+dash
+plotly
